@@ -1,0 +1,5 @@
+{
+  "name": "Portrait Studio IPS",
+  "description": "An in-person sales (IPS) application for portrait photography studios. This tool allows photographers to present images to clients in a beautiful, cinematic slideshow, compare photos side-by-side, and build product orders in real-time.",
+  "requestFramePermissions": []
+}
